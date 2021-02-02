@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "voidbubbling",
+	"version": "${version}",
+	"name": "Void Bubbling",
+	"description": "Replicates the effects of a bubble column for certain entities in the void.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Void-Bubbling#readme",
+		"issues": "https://github.com/haykam821/Void-Bubbling/issues"
+	},
+	"mixins": [
+		"voidbubbling.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/voidbubbling/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
